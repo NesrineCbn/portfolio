@@ -6,7 +6,7 @@ export const Bio = {
   description:
     "Intéressée par le cloud et les infrastructures réseau, j’aime comprendre comment les technologies connectent le monde et comment les sécuriser.",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1KIKLed7Tfbm-KuoJypb49jHsYMW7Rdaz/view?usp=sharing",
 
 };
 
